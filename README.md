@@ -16,12 +16,12 @@ The primary source of Data is Data.csv and other source like kaggle and Fred.
  3. for Data Validation
     
 -SQL: Structured Query Language
- .for querying
- .for updating affected fields and records:
+ 1. for querying
+ 2. for updating affected fields and records:
 ``` UPDATE table 1
      set location= 'Abuja'
      where SalesID= 'Ab201'
- .for selecting affected fields and records:
+ 3. for selecting affected fields and records:
 ``` SELECT p.ProductID, p.ProductName
     FROM Products p
     LEFT JOIN Sales s ON
