@@ -14,6 +14,7 @@ The primary source of Data is Data.csv and other source like kaggle and Fred.
  1. for Data Cleaning
  2. for Data Analysis
  3. for Data Validation
+    
 -SQL: Structured Query Language
  .for querying
  .for updating affected fields and records:
