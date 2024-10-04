@@ -29,4 +29,6 @@ The primary source of Data is Data.csv and other source like kaggle and Fred.
     WHERE s.ProductID is NULL
 -GitHub for building portfolio
 
-### 
+### Data Cleaning
+ 1. finding missing letters
+ 
